@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Amanda Morris",
+            "title": "Fetterman's use of captions is common in stroke recovery, experts say - The Washington Post",
+            "description": "Closed captions are a common tool for people with auditory processing issues or other hearing issues, the experts said.",
+            "url": "https://www.washingtonpost.com/wellness/2022/10/13/fetterman-closed-captioning-stroke-aphasia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O3OCOZCWOSJE2XF7PECQ2F6OTI.jpg&w=1440",
+            "publishedAt": "2022-10-13T14:32:53Z",
+            "content": "During his first on-camera interview since having a stroke, Democratic Senate candidate John Fetterman stumbled over words and used closed captioning to read interview questions, prompting Republican… [+6948 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Christine Fernando, USA TODAY",
+            "title": "Police shooting in Bristol, Conn., leaves 2 officers dead, 1 injured - USA TODAY",
+            "description": "Bristol Police Department Chief Brian Gould identified the officers who died as Sgt. Dustin Demonte, 35, and Officer Alex Hamzy, 34.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/10/13/connecticut-police-officers-fatally-shot-bristol/10484243002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/13/USAT/0ca537fd-aa5b-4802-b3d1-cd22b7fb4cb7-AP22286474811738.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
+            "publishedAt": "2022-10-13T14:15:00Z",
+            "content": "Two Connecticut police officers were fatally shot and one seriously injured after a shooting Wednesday in the suburban city of Bristol, police said.\r\nAt around 3:30 a.m., Connecticut State Police ann… [+1998 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WJCL News"
+            },
+            "author": "Graham Cawthon",
+            "title": "After a week of searching, police say Savannah toddler presumed dead, mother prime suspect - WJCL News Savannah",
+            "description": "Police say 20-month-old Quinton Simon was last seen at his home in the 500 block of Buckhalter Road at 6 a.m. October 5.",
+            "url": "https://www.wjcl.com/article/quinton-simon-missing-toddler-georgia-death/41605674",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/quinton-simon-1665401420.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-10-13T14:00:00Z",
+            "content": "Update 10 a.m.: Police have announced a 1 p.m. press conference. Check back to watch it live.\r\nThis content is imported from Twitter.\r\nYou may be able to find the same content in another format, or y… [+3174 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "Weather forces delay for NASA astronauts returning from space station on SpaceX capsule - CNN",
+            "description": "NASA and SpaceX's Crew-4 mission is expected to wrap up this week as the four astronauts, who've spent the past few months on the International Space Station, return home aboard the Crew Dragon spacecraft. But bad weather at their splashdown site is forcing d…",
+            "url": "https://www.cnn.com/2022/10/13/business/spacex-nasa-crew-4-undock-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221012161016-nasa-spacex-crew4.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-13T13:54:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nFour astronauts are scheduled to return home from the … [+3793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Myles Simmons",
+            "title": "Patrick Mahomes: I have a ton of respect for the player and person Josh Allen is - NBC Sports",
+            "description": "With two of the league’s top young quarterbacks, the Chiefs and Bills have become de facto rivals in the AFC.Patrick Mahomes and Josh Allen will meet again on Sunday when Buffalo goes back to Kansas City for the first time since losing a lead with 13 seconds …",
+            "url": "https://profootballtalk.nbcsports.com/2022/10/13/patrick-mahomes-i-have-a-ton-of-respect-for-the-player-and-person-josh-allen-is/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/10/GettyImages-1235813141-e1665666874677.jpg",
+            "publishedAt": "2022-10-13T13:32:00Z",
+            "content": "With two of the leagues top young quarterbacks, the Chiefs and Bills have become de facto rivals in the AFC.\r\nPatrick Mahomes and Josh Allen will meet again on Sunday when Buffalo goes back to Kansas… [+1346 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Elisabeth Buchwald, USA TODAY",
+            "title": "Social Security benefits COLA increase 8.7% in 2023 - USA TODAY",
+            "description": "Social Security COLA will increase by 8.7% in 2023. The adjustments are based on the CPI-W, a broad inflation measure",
+            "url": "https://www.usatoday.com/story/money/personalfinance/retirement/2022/10/13/social-security-benefits-cola-increase-2023/10480304002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/13/USAT/b58344ef-a2b7-4dc6-a6bf-89256ee09c32-XXX_IMG_SOCIAL_SECURITY_CARD_1_1_C211A1N94.JPG?auto=webp&crop=3007,1692,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-10-13T12:52:43Z",
+            "content": "Social Security benefits are set to rise by 8.7% next year – the fourth-biggest increase since automatic inflation adjustments were introduced in 1975. \r\nThis cost-of-living adjustment, or COLA, will… [+4227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Tomás Mier",
+            "title": "Silk Sonic ‘Bows Out’ of Submitting Album for Grammy Consideration - Rolling Stone",
+            "description": "\"Andy and I, and everyone that worked on this project, won the moment the world responded to 'Leave The Door Open,'\" Bruno Mars tells Rolling Stone. \"Everything else was just icing on the cake\"",
+            "url": "https://www.rollingstone.com/music/music-news/bruno-mars-evening-with-silk-sonic-grammys-1234610223-1234610223/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/10/SilkSonicGrammys.jpg?w=500&h=375&crop=1",
+            "publishedAt": "2022-10-13T12:48:22Z",
+            "content": "Silk Sonic — the duo of Bruno Mars and Anderson .Paak — will not submit their album An Evening WithSilk Sonic for Grammy consideration, Mars reveals to Rolling Stone in a statement.\r\n“We truly put ou… [+2559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Ben Turner",
+            "title": "First Martian life likely broke the planet with climate change, made themselves extinct - Livescience.com",
+            "description": "The finding comes from a modeling study that assumes ancient Martian life was similar to that on Earth during the same time period.",
+            "url": "https://www.livescience.com/mars-microbes-made-themselves-extinct-climate-change",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5Pcs3WttnUFgXD9Syd7vT-1200-80.jpg",
+            "publishedAt": "2022-10-13T12:26:59Z",
+            "content": "Ancient microbial life on Mars could have destroyed the planet’s atmosphere through climate change, which ultimately led to its extinction, new research has suggested.\r\nThe new theory comes from a cl… [+2730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Archie Bland",
+            "title": "Why is the US so angry with Saudi Arabia about oil supply cuts? - The Guardian US",
+            "description": "Joe Biden has threatened ‘consequences’ after Opec+ decided to reduce output in a decision that will benefit Russia",
+            "url": "https://www.theguardian.com/us-news/2022/oct/13/us-saudi-arabia-oil-suppply-opec-russia-war-ukraine",
+            "urlToImage": "https://i.guim.co.uk/img/media/937e8213696c1fda8c7061b76cf05bbd542456e5/0_28_4200_2520/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdb8deda115fe28a5577bc6d5b4c4a61",
+            "publishedAt": "2022-10-13T11:34:00Z",
+            "content": "When Joe Biden gave Saudi Arabias de facto ruler, Mohammed bin Salman, a fist bump in Jeddah in July, it was viewed as a moment of excruciating realpolitik: Biden, who had vowed to make Saudi Arabia … [+7954 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Rare protest against China's Xi Jinping days before Communist Party congress - CNN",
+            "description": "A rare protest against Chinese leader Xi Jinping and his policies was swiftly ended in Beijing Thursday, just days before he is set to secure a third term in power at a key meeting of the ruling Communist Party.",
+            "url": "https://www.cnn.com/2022/10/13/china/china-party-congress-protest-banners-xi-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221013153608-02-banner-beijing-101322.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-13T11:23:00Z",
+            "content": "A rare protest against Chinese leader Xi Jinping and his policies was swiftly ended in Beijing Thursday, just days before he is set to secure a third term in power at a key meeting of the ruling Comm… [+2353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko",
+            "title": "Walgreens beats sales expectations, as it expands its health-care business - CNBC",
+            "description": "Walgreens' profit outlook for the new fiscal year is largely in line with Wall Street's expectations.",
+            "url": "https://www.cnbc.com/2022/10/13/walgreens-wba-q4-2022-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106959962-1634151295148-gettyimages-1235405345-BIZ-WALGREENS-SHIELDS-TB.jpeg?v=1665658874&w=1920&h=1080",
+            "publishedAt": "2022-10-13T11:01:14Z",
+            "content": "Walgreens Boots Alliance on Thursday exceeded fiscal fourth-quarter sales expectations, as the drugstore chain turns itself into a more health-care focused company.\r\nThe company said it anticipates f… [+3571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Kelly Gilmore",
+            "title": "Kim Kardashian Reveals the Sex With Pete Davidson That Was Inspired by Her Grandma MJ - E! NEWS",
+            "description": "Kim Kardashian and Pete Davidson had one hot stay at the Beverly Hills Hotel. During an episode of The Kardashians, Kim had this to say about their fire sex life.",
+            "url": "https://www.eonline.com/news/1349814/kim-kardashian-reveals-the-sex-with-pete-davidson-that-was-inspired-by-her-grandma-mj",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022611/rs_1200x1200-220711140017-kim-and-pete.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-10-13T10:32:46Z",
+            "content": "Kim Kardashian set the world ablaze with this confession.\r\nThe SKIMS founder got candid on her sex life during the Oct. 13 episode of The Kardashians, sharing where she and her then-boyfriend Pete Da… [+764 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amy Woodyatt",
+            "title": "Brain cells in a dish played video game Pong, scientists say - CNN",
+            "description": "The video game Pong is such a simple concept, anyone can play -- even a dish of brain cells, according to scientists.",
+            "url": "https://www.cnn.com/2022/10/13/world/brain-cells-pong-intl-scli-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221013104149-01-brain-cells-play-pong.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-13T10:31:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe video game Pong is such a simple concept, anyone c… [+2766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brad Smith",
+            "title": "Delta Air Lines earnings: Record revenue on ‘tremendous demand,’ CEO says - Yahoo Finance",
+            "description": "'Tremendous demand' thrusts Delta Air Lines towards a record quarter for revenue as the company progresses capacity restoration.",
+            "url": "https://finance.yahoo.com/news/delta-air-lines-reports-record-revenue-quarter-on-tremendous-demand-103024501.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i8E0QggRthmuQ4sWPmLY4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/c81b3fc0-65bf-11eb-be7a-baa32048010f",
+            "publishedAt": "2022-10-13T10:30:38Z",
+            "content": "Delta Air Lines reported record revenue in the third quarter, and CEO Ed Bastian attributed the \"tremendous demand\" to business performance to a shift of consumer dollars from goods to services.\r\nCon… [+2495 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "MLB Division Series top plays: Padres edge Dodgers; Braves top Phillies - FOX Sports",
+            "description": "The Braves avoided a 2-0 hole against the Phillies on Wednesday, while the Dodgers were unable to take a 2-0 series lead against the Padres.",
+            "url": "https://www.foxsports.com/stories/mlb/mlb-division-series-top-plays-padres-edge-dodgers-braves-top-phillies",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/1408/814/10.12.22_MLB-Top-Plays_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-10-13T10:11:04Z",
+            "content": "While the American League took a day off after Game 1, the senior circuit moved forward with a pair of NLDS Game 2s on Wednesday.\r\nThe Atlanta Braves evened up their series with the Philadelphia Phil… [+4468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Ringer"
+            },
+            "author": "Sheil Kapadia",
+            "title": "Week 6 NFL Picks Against the Spread - The Ringer",
+            "description": "In the two massive games on the Week 6 slate that could be conference championship previews, we’ll take the Kansas City Chiefs and Dallas Cowboys and the points. Here are all of our NFL picks against the spread.",
+            "url": "https://www.theringer.com/nfl/2022/10/13/23401479/nfl-picks-against-the-spread-week-six",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q3HXjOIO5wQ66hbcr4FGoTkTUeE=/0x66:3000x1637/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24105202/PicksAgainstTheSpreadWk6_Getty_AP_Ringer.jpg",
+            "publishedAt": "2022-10-13T10:10:00Z",
+            "content": "Four teamsthe Detroit Lions, Tennessee Titans, Las Vegas Raiders, and Houston Texansget Week 6 off. But weve still got two huge matchups on the slate as the Dallas Cowboys travel to Philadelphia to t… [+14697 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Terry Spencer",
+            "title": "Parkland school shooter trial: What's next? - The Associated Press",
+            "description": "FORT LAUDERDALE, Fla. (AP) — The jurors who will decide whether Florida school shooter Nikolas Cruz  is sentenced to death or life without parole concluded their first day of deliberations Wednesday as the three-month trial nears its conclusion.",
+            "url": "https://apnews.com/article/nikolas-cruz-parkland-shooter-trial-whats-next-5620dae540c825d79bc50b79ba2a9d98",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3fb3e4dfad66410ea85cdfafd43cf734/3000.jpeg",
+            "publishedAt": "2022-10-13T10:05:18Z",
+            "content": "FORT LAUDERDALE, Fla. (AP) The jurors who will decide whether Florida school shooter Nikolas Cruz is sentenced to death or life without parole concluded their first day of deliberations Wednesday as … [+5356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jared Blikre",
+            "title": "A key inflation report that settles little for Wall Street: Morning Brief - Yahoo Finance",
+            "description": "What to watch in markets Thursday, October 13, 2022.",
+            "url": "https://finance.yahoo.com/news/inflation-report-settles-little-for-wall-street-morning-brief-100054390.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZdzbG_gKjhVl6.tN9IrEyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjE-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/95925af0-4a71-11ed-9777-97fc13ab0a42",
+            "publishedAt": "2022-10-13T10:00:54Z",
+            "content": "This article first appeared in the Morning Brief. Get the Morning Brief sent directly to your inbox every Monday to Friday by 6:30 a.m. ET. Subscribe\r\nThursday, October 13, 2022\r\nToday's newsletter i… [+5086 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Tom Simonite",
+            "title": "The Search for a Pill That Can Help Dogs—and Humans—Live Longer - WIRED",
+            "description": "People have been searching for a fountain of youth for thousands of years. Celine Halioua thinks she’s found one—for canines. Be patient, we’re next.",
+            "url": "https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/",
+            "urlToImage": "https://media.wired.com/photos/634619732f06c0b71581f589/191:100/w_1280,c_limit/10685_04_0588.jpg",
+            "publishedAt": "2022-10-13T10:00:00Z",
+            "content": "halioua began 2020 with $5.1 million in funding. By way of thanks she sent all of her investors, including Rosen, fluffy toy puppies wearing company bandanas. She secured an office on the edge of dow… [+3061 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "'Clear and present danger': Jan. 6 committee to describe lingering Trump threat - POLITICO",
+            "description": "Thursday’s hearing, billed as a “closing argument,” is expected to be the select panel’s last before the midterm elections.",
+            "url": "https://www.politico.com/news/2022/10/13/jan-6-committee-trump-threat-00061454",
+            "urlToImage": "https://static.politico.com/05/b4/67028c014bc0bee5e1060a5d7a5a/trump-43266.jpg",
+            "publishedAt": "2022-10-13T08:30:00Z",
+            "content": "The panel intends to focus on evidence that Trump has consistently and increasingly been using rhetoric that we knew caused violence on Jan. 6, Rep. Liz Cheney (R-Wyo.) told reporters recently. Chene… [+6459 chars]"
+        }
+    ]
+}
