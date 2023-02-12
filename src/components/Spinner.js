@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
-export default class Spinner extends Component {
-  render() {
+const Spinner = ()=>{
+  
     return (
       <>
         {/* <div className="lds-facebook"><div></div><div></div><div></div></div> */}
@@ -13,5 +13,7 @@ export default class Spinner extends Component {
         </div>
       </>
     );
-  }
+  
 }
+
+export default Spinner
