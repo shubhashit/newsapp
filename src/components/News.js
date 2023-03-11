@@ -7,6 +7,7 @@ import InfiniteScroll from "react-infinite-scroll-component";
 
 const News = (props) => {
   const [articles, setArticles] = useState([]);
+  console.log(articles)
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
@@ -46,6 +47,8 @@ const News = (props) => {
     setTotalResults(parsedData.totalResults);
   };
 
+  console.log(articles)
+  console.log(articles.length)
   return (
     <>
       <h1 className="text-center" style={{ margin: "35px 0px" }}>
@@ -53,14 +56,14 @@ const News = (props) => {
       </h1>
       {loading && <Spinner />}
       <InfiniteScroll
-        dataLength={articles ? articles.length : []}
+        dataLength={articles ? articles.length : 0}
         next={fetchMoreData}
-        hasMore={articles.length !== totalResults}
+        hasMore={articles && articles.length !== totalResults}
         loader={<Spinner />}
       >
         <div className="container">
           <div className="row">
-            {articles.map((element) => {
+            {articles && articles.map((element) => {
               return (
                 <div className="col-md-4" key={element.url}>
                   <NewsItem
